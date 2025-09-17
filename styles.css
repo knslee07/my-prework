@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: #0b0e13;
+}
+
+#world-canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+
+
